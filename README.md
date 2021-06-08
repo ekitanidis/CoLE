@@ -1,2 +1,2 @@
 # CoLE
-Contrastive Language Encoder. Pre-train large language representation model using purely contrastive objective.
+Contrastive Language Encoder. Uses SimSiam framework to contrastively learn large-scale language representations. Trained on The Pile. Work in progress.
